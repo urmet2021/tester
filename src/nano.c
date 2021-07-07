@@ -10,6 +10,7 @@ main( int argc, char *argv[] )
 	
 	/* modification ### 3 performed in upstream urmet2021/tester */
 
+	/* mod for fetch test */
 	int tick=0;
     printf("main\n");
 	printf("CONST %d\n",TEST);
